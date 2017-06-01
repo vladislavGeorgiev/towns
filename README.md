@@ -1,2 +1,2 @@
-# towns
-Exercise for students in the teamwork course at SoftUni
+# Towns
+Exercise for students in the teamwork course at SoftUni.
