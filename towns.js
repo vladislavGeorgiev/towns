@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	$('#btnDelete').click(deleteTown)
+	$('#btnDelete').click(deleteTown);
 });
 
 function deleteTown() {
